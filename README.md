@@ -2,7 +2,7 @@
 
 Javascript bubble algorithm to write words with bubbles. 
 
-![BUBBLE](https://github.com/adamantino/BubblePaint/blob/master/apple.PNG?raw=true)
+![BUBBLE](https://github.com/adamantino/BubbleText/blob/master/bubble.png)
 
 Inspired on Daniel Shiffman - Animated Circle Packing - "The Coding Train". 
 
